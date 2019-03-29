@@ -1,0 +1,26 @@
+C:\Users\takeh\AppData\Local\Temporary Projects\GetShortCut\bin\Debug\GetShortCut.exe
+C:\Users\takeh\AppData\Local\Temporary Projects\GetShortCut\bin\Debug\GetShortCut.pdb
+C:\Users\takeh\AppData\Local\Temporary Projects\GetShortCut\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\takeh\AppData\Local\Temporary Projects\GetShortCut\obj\x86\Debug\GetShortCut.csproj.ResolveComReference.cache
+C:\Users\takeh\AppData\Local\Temporary Projects\GetShortCut\obj\x86\Debug\GetShortCut.exe
+C:\Users\takeh\AppData\Local\Temporary Projects\GetShortCut\obj\x86\Debug\GetShortCut.pdb
+D:\c#\GetShortCut\GetShortCut\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+D:\c#\GetShortCut\GetShortCut\obj\x86\Debug\GetShortCut.csproj.ResolveComReference.cache
+D:\c#\GetShortCut\GetShortCut\obj\x86\Debug\GetShortCut.exe
+D:\c#\GetShortCut\GetShortCut\obj\x86\Debug\GetShortCut.pdb
+D:\c#\GetShortCut\GetShortCut\bin\Debug\GetShortCut.exe
+D:\c#\GetShortCut\GetShortCut\bin\Debug\GetShortCut.pdb
+D:\c#\c#\GetShortCut\GetShortCut\bin\Debug\GetShortCut.exe
+D:\c#\c#\GetShortCut\GetShortCut\bin\Debug\GetShortCut.pdb
+D:\c#\c#\GetShortCut\GetShortCut\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+D:\c#\c#\GetShortCut\GetShortCut\obj\x86\Debug\GetShortCut.csproj.ResolveComReference.cache
+D:\c#\c#\GetShortCut\GetShortCut\obj\x86\Debug\GetShortCut.exe
+D:\c#\c#\GetShortCut\GetShortCut\obj\x86\Debug\GetShortCut.pdb
+H:\OneDrive\ドキュメント\c#\GetShortCut\GetShortCut\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+H:\OneDrive\ドキュメント\c#\GetShortCut\GetShortCut\obj\x86\Debug\GetShortCut.csproj.ResolveComReference.cache
+H:\OneDrive\ドキュメント\c#\GetShortCut\GetShortCut\obj\x86\Debug\GetShortCut.exe
+H:\OneDrive\ドキュメント\c#\GetShortCut\GetShortCut\obj\x86\Debug\GetShortCut.pdb
+C:\Users\takeh\OneDrive\ドキュメント\c#\GetShortCut\GetShortCut\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\takeh\OneDrive\ドキュメント\c#\GetShortCut\GetShortCut\obj\x86\Debug\GetShortCut.csproj.ResolveComReference.cache
+C:\Users\takeh\OneDrive\ドキュメント\c#\GetShortCut\GetShortCut\obj\x86\Debug\GetShortCut.exe
+C:\Users\takeh\OneDrive\ドキュメント\c#\GetShortCut\GetShortCut\obj\x86\Debug\GetShortCut.pdb

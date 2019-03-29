@@ -1,0 +1,5 @@
+D:\c#\ConsoleApplication6\ConsoleApplication6\bin\Release\ConsoleApplication6.exe
+D:\c#\ConsoleApplication6\ConsoleApplication6\bin\Release\ConsoleApplication6.pdb
+D:\c#\ConsoleApplication6\ConsoleApplication6\obj\x86\Release\ResolveAssemblyReference.cache
+D:\c#\ConsoleApplication6\ConsoleApplication6\obj\x86\Release\ConsoleApplication6.exe
+D:\c#\ConsoleApplication6\ConsoleApplication6\obj\x86\Release\ConsoleApplication6.pdb

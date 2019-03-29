@@ -1,0 +1,6 @@
+D:\c#\GetShotCutDir\GetShotCutDir\bin\Release\GetShotCutDir.exe
+D:\c#\GetShotCutDir\GetShotCutDir\bin\Release\GetShotCutDir.pdb
+D:\c#\GetShotCutDir\GetShotCutDir\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+D:\c#\GetShotCutDir\GetShotCutDir\obj\x86\Release\GetShotCutDir.csproj.ResolveComReference.cache
+D:\c#\GetShotCutDir\GetShotCutDir\obj\x86\Release\GetShotCutDir.exe
+D:\c#\GetShotCutDir\GetShotCutDir\obj\x86\Release\GetShotCutDir.pdb

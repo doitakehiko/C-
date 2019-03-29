@@ -1,0 +1,7 @@
+D:\c#\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.exe
+D:\c#\ConsoleApplication3\ConsoleApplication3\bin\Release\ConsoleApplication3.pdb
+D:\c#\ConsoleApplication3\ConsoleApplication3\obj\x86\Release\ConsoleApplication3.exe
+D:\c#\ConsoleApplication3\ConsoleApplication3\obj\x86\Release\ConsoleApplication3.pdb
+D:\c#\ConsoleApplication3\ConsoleApplication3\bin\Release\ChilkatDotNet4.dll
+D:\c#\ConsoleApplication3\ConsoleApplication3\bin\Release\Ionic.Zip.dll
+D:\c#\ConsoleApplication3\ConsoleApplication3\obj\x86\Release\ConsoleApplication3.csprojResolveAssemblyReference.cache

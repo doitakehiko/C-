@@ -1,0 +1,8 @@
+C:\Users\takeh\AppData\Local\Temporary Projects\ArgsTest\bin\Release\ArgsTest.exe
+C:\Users\takeh\AppData\Local\Temporary Projects\ArgsTest\bin\Release\ArgsTest.pdb
+C:\Users\takeh\AppData\Local\Temporary Projects\ArgsTest\obj\x86\Release\ArgsTest.exe
+C:\Users\takeh\AppData\Local\Temporary Projects\ArgsTest\obj\x86\Release\ArgsTest.pdb
+D:\c#\ArgsTest\ArgsTest\obj\x86\Release\ArgsTest.exe
+D:\c#\ArgsTest\ArgsTest\obj\x86\Release\ArgsTest.pdb
+D:\c#\ArgsTest\ArgsTest\bin\Release\ArgsTest.exe
+D:\c#\ArgsTest\ArgsTest\bin\Release\ArgsTest.pdb

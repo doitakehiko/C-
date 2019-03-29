@@ -1,0 +1,8 @@
+C:\Users\takeh\AppData\Local\Temporary Projects\PipeTest\bin\Release\PipeTest.exe
+C:\Users\takeh\AppData\Local\Temporary Projects\PipeTest\bin\Release\PipeTest.pdb
+C:\Users\takeh\AppData\Local\Temporary Projects\PipeTest\obj\x86\Release\PipeTest.exe
+C:\Users\takeh\AppData\Local\Temporary Projects\PipeTest\obj\x86\Release\PipeTest.pdb
+D:\c#\PipeTest\PipeTest\obj\x86\Release\PipeTest.exe
+D:\c#\PipeTest\PipeTest\obj\x86\Release\PipeTest.pdb
+D:\c#\PipeTest\PipeTest\bin\Release\PipeTest.exe
+D:\c#\PipeTest\PipeTest\bin\Release\PipeTest.pdb

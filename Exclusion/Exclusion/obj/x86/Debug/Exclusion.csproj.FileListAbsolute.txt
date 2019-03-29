@@ -1,0 +1,6 @@
+C:\Users\takeh\AppData\Local\Temporary Projects\Exclusion\bin\Debug\Exclusion.exe
+C:\Users\takeh\AppData\Local\Temporary Projects\Exclusion\bin\Debug\Exclusion.pdb
+C:\Users\takeh\AppData\Local\Temporary Projects\Exclusion\obj\x86\Debug\Exclusion.exe
+C:\Users\takeh\AppData\Local\Temporary Projects\Exclusion\obj\x86\Debug\Exclusion.pdb
+D:\c#\Exclusion\Exclusion\obj\x86\Debug\Exclusion.exe
+D:\c#\Exclusion\Exclusion\obj\x86\Debug\Exclusion.pdb

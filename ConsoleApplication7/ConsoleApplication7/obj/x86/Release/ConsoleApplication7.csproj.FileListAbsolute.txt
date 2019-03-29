@@ -1,0 +1,8 @@
+D:\c#\ConsoleApplication7\ConsoleApplication7\bin\Release\ConsoleApplication7.exe
+D:\c#\ConsoleApplication7\ConsoleApplication7\bin\Release\ConsoleApplication7.pdb
+D:\c#\ConsoleApplication7\ConsoleApplication7\obj\x86\Release\ConsoleApplication7.exe
+D:\c#\ConsoleApplication7\ConsoleApplication7\obj\x86\Release\ConsoleApplication7.pdb
+D:\c#\c#\ConsoleApplication7\ConsoleApplication7\obj\x86\Release\ConsoleApplication7.exe
+D:\c#\c#\ConsoleApplication7\ConsoleApplication7\obj\x86\Release\ConsoleApplication7.pdb
+D:\c#\c#\ConsoleApplication7\ConsoleApplication7\bin\Release\ConsoleApplication7.exe
+D:\c#\c#\ConsoleApplication7\ConsoleApplication7\bin\Release\ConsoleApplication7.pdb

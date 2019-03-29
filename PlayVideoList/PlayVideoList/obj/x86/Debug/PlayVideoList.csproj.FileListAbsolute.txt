@@ -1,0 +1,24 @@
+C:\Users\win7\AppData\Local\Temporary Projects\PlayVideoList\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\win7\AppData\Local\Temporary Projects\PlayVideoList\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\win7\AppData\Local\Temporary Projects\PlayVideoList\obj\x86\Debug\PlayVideoList.csproj.ResolveComReference.cache
+C:\Users\win7\AppData\Local\Temporary Projects\PlayVideoList\obj\x86\Debug\PlayVideoList.Form1.resources
+C:\Users\win7\AppData\Local\Temporary Projects\PlayVideoList\obj\x86\Debug\PlayVideoList.Properties.Resources.resources
+C:\Users\win7\AppData\Local\Temporary Projects\PlayVideoList\obj\x86\Debug\PlayVideoList.csproj.GenerateResource.Cache
+C:\Users\win7\AppData\Local\Temporary Projects\PlayVideoList\bin\Debug\PlayVideoList.exe
+C:\Users\win7\AppData\Local\Temporary Projects\PlayVideoList\bin\Debug\PlayVideoList.pdb
+C:\Users\win7\AppData\Local\Temporary Projects\PlayVideoList\bin\Debug\Interop.WMPLib.dll
+C:\Users\win7\AppData\Local\Temporary Projects\PlayVideoList\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\win7\AppData\Local\Temporary Projects\PlayVideoList\obj\x86\Debug\PlayVideoList.exe
+C:\Users\win7\AppData\Local\Temporary Projects\PlayVideoList\obj\x86\Debug\PlayVideoList.pdb
+D:\c#\PlayVideoList\PlayVideoList\obj\x86\Debug\Interop.WMPLib.dll
+D:\c#\PlayVideoList\PlayVideoList\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\c#\PlayVideoList\PlayVideoList\obj\x86\Debug\PlayVideoList.csproj.ResolveComReference.cache
+D:\c#\PlayVideoList\PlayVideoList\obj\x86\Debug\PlayVideoList.exe
+D:\c#\PlayVideoList\PlayVideoList\obj\x86\Debug\PlayVideoList.pdb
+D:\c#\PlayVideoList\PlayVideoList\obj\x86\Debug\PlayVideoList.Form1.resources
+D:\c#\PlayVideoList\PlayVideoList\obj\x86\Debug\PlayVideoList.Properties.Resources.resources
+D:\c#\PlayVideoList\PlayVideoList\obj\x86\Debug\PlayVideoList.csproj.GenerateResource.Cache
+D:\c#\PlayVideoList\PlayVideoList\bin\Debug\PlayVideoList.exe
+D:\c#\PlayVideoList\PlayVideoList\bin\Debug\PlayVideoList.pdb
+D:\c#\PlayVideoList\PlayVideoList\bin\Debug\Interop.WMPLib.dll
+D:\c#\PlayVideoList\PlayVideoList\bin\Debug\AxInterop.WMPLib.dll

@@ -1,0 +1,4 @@
+D:\c#\uniq\uniq\bin\Release\uniq.exe
+D:\c#\uniq\uniq\bin\Release\uniq.pdb
+D:\c#\uniq\uniq\obj\x86\Release\uniq.exe
+D:\c#\uniq\uniq\obj\x86\Release\uniq.pdb

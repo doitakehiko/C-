@@ -1,0 +1,16 @@
+C:\Users\takeh\AppData\Local\Temporary Projects\GetShotCutDir\bin\Debug\GetShotCutDir.exe
+C:\Users\takeh\AppData\Local\Temporary Projects\GetShotCutDir\bin\Debug\GetShotCutDir.pdb
+C:\Users\takeh\AppData\Local\Temporary Projects\GetShotCutDir\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\takeh\AppData\Local\Temporary Projects\GetShotCutDir\obj\x86\Debug\GetShotCutDir.csproj.ResolveComReference.cache
+C:\Users\takeh\AppData\Local\Temporary Projects\GetShotCutDir\obj\x86\Debug\GetShotCutDir.exe
+C:\Users\takeh\AppData\Local\Temporary Projects\GetShotCutDir\obj\x86\Debug\GetShotCutDir.pdb
+D:\c#\GetShotCutDir\GetShotCutDir\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+D:\c#\GetShotCutDir\GetShotCutDir\obj\x86\Debug\GetShotCutDir.csproj.ResolveComReference.cache
+D:\c#\GetShotCutDir\GetShotCutDir\obj\x86\Debug\GetShotCutDir.exe
+D:\c#\GetShotCutDir\GetShotCutDir\obj\x86\Debug\GetShotCutDir.pdb
+D:\c#\GetShotCutDir\GetShotCutDir\bin\Debug\GetShotCutDir.exe
+D:\c#\GetShotCutDir\GetShotCutDir\bin\Debug\GetShotCutDir.pdb
+H:\OneDrive\ドキュメント\c#\GetShotCutDir\GetShotCutDir\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+H:\OneDrive\ドキュメント\c#\GetShotCutDir\GetShotCutDir\obj\x86\Debug\GetShotCutDir.csproj.ResolveComReference.cache
+H:\OneDrive\ドキュメント\c#\GetShotCutDir\GetShotCutDir\obj\x86\Debug\GetShotCutDir.exe
+H:\OneDrive\ドキュメント\c#\GetShotCutDir\GetShotCutDir\obj\x86\Debug\GetShotCutDir.pdb

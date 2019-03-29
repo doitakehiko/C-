@@ -1,0 +1,10 @@
+D:\c#\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+D:\c#\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+D:\c#\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+D:\c#\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+D:\c#\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb
+D:\c#\c#\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+D:\c#\c#\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+D:\c#\c#\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+D:\c#\c#\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+D:\c#\c#\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb

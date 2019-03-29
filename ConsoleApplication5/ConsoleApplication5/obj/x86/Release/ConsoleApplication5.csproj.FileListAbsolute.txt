@@ -1,0 +1,7 @@
+D:\c#\ConsoleApplication5\ConsoleApplication5\bin\Release\ConsoleApplication5.exe
+D:\c#\ConsoleApplication5\ConsoleApplication5\bin\Release\ConsoleApplication5.pdb
+D:\c#\ConsoleApplication5\ConsoleApplication5\obj\x86\Release\ConsoleApplication5.exe
+D:\c#\ConsoleApplication5\ConsoleApplication5\obj\x86\Release\ConsoleApplication5.pdb
+D:\c#\ConsoleApplication5\ConsoleApplication5\obj\x86\Release\ConsoleApplication5.csprojResolveAssemblyReference.cache
+I:\c#\ConsoleApplication5\ConsoleApplication5\obj\x86\Release\ConsoleApplication5.exe
+I:\c#\ConsoleApplication5\ConsoleApplication5\obj\x86\Release\ConsoleApplication5.pdb

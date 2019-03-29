@@ -1,0 +1,4 @@
+D:\c#\ErrOutput\ErrOutput\bin\Release\ErrOutput.exe
+D:\c#\ErrOutput\ErrOutput\bin\Release\ErrOutput.pdb
+D:\c#\ErrOutput\ErrOutput\obj\x86\Release\ErrOutput.exe
+D:\c#\ErrOutput\ErrOutput\obj\x86\Release\ErrOutput.pdb

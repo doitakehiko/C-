@@ -1,0 +1,8 @@
+C:\Users\takeh\AppData\Local\Temporary Projects\uniq\bin\Debug\uniq.exe
+C:\Users\takeh\AppData\Local\Temporary Projects\uniq\bin\Debug\uniq.pdb
+C:\Users\takeh\AppData\Local\Temporary Projects\uniq\obj\x86\Debug\uniq.exe
+C:\Users\takeh\AppData\Local\Temporary Projects\uniq\obj\x86\Debug\uniq.pdb
+D:\c#\uniq\uniq\obj\x86\Debug\uniq.exe
+D:\c#\uniq\uniq\obj\x86\Debug\uniq.pdb
+D:\c#\uniq\uniq\bin\Debug\uniq.exe
+D:\c#\uniq\uniq\bin\Debug\uniq.pdb

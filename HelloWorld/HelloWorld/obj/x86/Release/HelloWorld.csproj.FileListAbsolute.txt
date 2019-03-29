@@ -1,0 +1,8 @@
+C:\Users\win7\AppData\Local\Temporary Projects\HelloWorld\bin\Release\HelloWorld.exe
+C:\Users\win7\AppData\Local\Temporary Projects\HelloWorld\bin\Release\HelloWorld.pdb
+C:\Users\win7\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Release\HelloWorld.exe
+C:\Users\win7\AppData\Local\Temporary Projects\HelloWorld\obj\x86\Release\HelloWorld.pdb
+D:\c#\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.exe
+D:\c#\HelloWorld\HelloWorld\obj\x86\Release\HelloWorld.pdb
+D:\c#\HelloWorld\HelloWorld\bin\Release\HelloWorld.exe
+D:\c#\HelloWorld\HelloWorld\bin\Release\HelloWorld.pdb

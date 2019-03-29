@@ -1,0 +1,4 @@
+C:\Users\takeh\AppData\Local\Temporary Projects\PipeTest\bin\Debug\PipeTest.exe
+C:\Users\takeh\AppData\Local\Temporary Projects\PipeTest\bin\Debug\PipeTest.pdb
+C:\Users\takeh\AppData\Local\Temporary Projects\PipeTest\obj\x86\Debug\PipeTest.exe
+C:\Users\takeh\AppData\Local\Temporary Projects\PipeTest\obj\x86\Debug\PipeTest.pdb
